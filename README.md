@@ -4,4 +4,4 @@ A Newspaper Publishing Company (NPC) is facing increasing churn rates since year
 
 Hence the NPC requires a predictive retention (or churn) model in order to predict which customers will not renew their newspaper subscriptionss. Customers are not allowed to cancel their subscriptions;hence a customer is defined as a churner if he or she does not renew the subscription once the current subscriptions end.
 
-Copyright 2019, Shriya Jain, All rights reserved
+#### Copyright 2019, Shriya Jain, All rights reserved
